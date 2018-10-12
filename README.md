@@ -1,5 +1,6 @@
 # nlp-sentiment-analysis-python
-Leveraging NLP to do sentiment analysis in Python. Read about the background here - https://medium.com/@yasimk_87248/using-data-science-in-everyday-life-f9b58f1f74af
+Leveraging NLP to do sentiment analysis in Python. Read about the background here - 
+https://medium.com/@yasimk_87248/using-data-science-in-everyday-life-f9b58f1f74af
 
 Using NLP and Python libraries, measure the satisfaction from the data collected from a google survey. The background about the project is published in my Medium blog. 
 
